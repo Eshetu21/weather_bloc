@@ -208,7 +208,7 @@ class HomeScreen extends StatelessWidget {
                                 ),
                                 SizedBox(height: 3),
                                 Text(
-                                  "21°C",
+                                  "8°C",
                                   style: TextStyle(
                                       color: Colors.white,
                                       fontWeight: FontWeight.w700),
